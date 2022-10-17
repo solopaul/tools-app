@@ -1,0 +1,205 @@
+{
+  "id": "3418209",
+  "name": "keyboard driver",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "keyboard driver",
+  "glyphs": [
+    {
+      "icon_id": "15323330",
+      "name": "S_square_字母s",
+      "font_class": "square-s",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "2678595",
+      "name": "多媒体",
+      "font_class": "media",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "4942647",
+      "name": "禁用",
+      "font_class": "disabled",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "6528456",
+      "name": "鼠标",
+      "font_class": "mouse1",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "7461253",
+      "name": "媒体",
+      "font_class": "media1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "15220268",
+      "name": "数字输入",
+      "font_class": "numbers",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "26571353",
+      "name": "底层架构",
+      "font_class": "layers",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "1314978",
+      "name": "键盘",
+      "font_class": "jianpan",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "2958394",
+      "name": "keyboard",
+      "font_class": "keyboard-func",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "4784101",
+      "name": "另存为",
+      "font_class": "saveas",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "4988488",
+      "name": "电脑机箱-01",
+      "font_class": "jixiang",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "5880284",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "6528451",
+      "name": "键盘",
+      "font_class": "jianpan1",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "6996224",
+      "name": "代码",
+      "font_class": "daima",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "7983622",
+      "name": "鼠标",
+      "font_class": "mouse",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11121410",
+      "name": "导入配置",
+      "font_class": "import",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "11466941",
+      "name": "workflow",
+      "font_class": "workflow",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "14421618",
+      "name": "最大化",
+      "font_class": "maximum",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "15325362",
+      "name": "1_square_数字1_by_climei",
+      "font_class": "square-1",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "15325363",
+      "name": "5_square_数字5",
+      "font_class": "square-5",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "15325365",
+      "name": "4_square_数字4",
+      "font_class": "square-4",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "15325368",
+      "name": "2_square_数字2",
+      "font_class": "square-2",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "15325370",
+      "name": "3_square_数字3",
+      "font_class": "square-3",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "18127142",
+      "name": "太阳、灯光",
+      "font_class": "light",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "18267911",
+      "name": "二维码",
+      "font_class": "qrcode",
+      "unicode": "e98d",
+      "unicode_decimal": 59789
+    },
+    {
+      "icon_id": "26257242",
+      "name": "语言",
+      "font_class": "en",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "27876632",
+      "name": "语言 中文",
+      "font_class": "zh",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "27876685",
+      "name": "语言 繁体",
+      "font_class": "fanti",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}

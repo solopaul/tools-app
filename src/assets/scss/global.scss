@@ -1,0 +1,75 @@
+$font-color-gray: rgb(16, 219, 50);
+$_active_color: #409eff;
+$_base_bg: #313e52;
+$_base_bg_1: rgb(32, 39, 53);
+$_base_color: #99a5be;
+
+$color-primary: #587df1;
+$color-success: #67C23A;
+$color-warning: #E6A23C;
+$color-danger: #F56C6C;
+$color-info: #909399;
+$border-radius-size: 4px;
+$border-dark-color: rgba(0, 0, 0, 0.42);
+$border-dark-color1: rgba(0, 0, 0, 0.2);
+$color-light1: #99a5be;
+$color-light2: #20222b;
+$color-dark1: #41516c;
+$color-dark2: #313e52;
+$color-dark3: #283142;
+$color-dark4: #202735;
+$color-dark5: #181f29;
+$bg-color: #2c313b; //left aside
+$bg-color1: #262b33;  //footer
+$bg-color2: #22272e;  // panel
+$bg-color3: #181f29;  //
+$bg-transparent: rgba(0, 0, 0, .2);
+$bg-transparent1: rgba(0, 0, 0, .1);
+$bg-transparent2: rgba(0, 0, 0, .3);
+$bg-transparent3: rgba(255, 255, 255, 0.05);
+
+@media (prefers-color-scheme: dark) {
+  body { background: #333; color: white; }
+}
+
+@media (prefers-color-scheme: light) {
+  body { background: #ddd; color: black; }
+}
+
+html {
+  font-size: 14px;
+}
+.drag {
+  -webkit-app-region: drag;
+}
+.nodrag {
+  -webkit-app-region: none;
+}
+
+.cus-button {
+  display: inline-block;
+  color: $_base_color;
+  .anticon {
+    padding: 4px;
+    border-radius: 2px;
+    cursor: pointer;
+    &:hover{
+      background-color: $bg-transparent;
+      color: $color-primary;
+    }
+  }
+}
+
+.success {
+  color: $color-success !important;
+}
+.warning {
+  color: $color-warning !important;
+}
+.danger {
+  color: $color-danger !important;
+}
+
+div.trans {
+  transition: all ease-in-out 2s;
+}
